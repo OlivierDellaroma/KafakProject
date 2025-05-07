@@ -1,3 +1,10 @@
+PRe-INSTAL : 
+aller dans : https://kafka.apache.org/downloads
+telecharger : https://archive.apache.org/dist/kafka/3.5.1/kafka_2.13-3.5.1.tgz
+
+installer kafka_2.13-3.5.1 par exemple dab=nc un repertoire : c:\tools\kafka_2.13-3.5.1\
+
+Voir le cours youtube : https://www.youtube.com/watch?v=2rDKBhoaZPw
 
 1. lancer Windows Terminal (Terminal avec plusier onglets)
 2. se positionner dans le dssier kafka/bin/windows/

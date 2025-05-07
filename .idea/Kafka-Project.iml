@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/kafka-consumer/src/main/java/com/olivier/kafka_consumer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kafka-consumer/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/kafka-producer/src/main/java/com/olivier/kafka_producer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kafka-producer/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/kafka-consumer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/kafka-producer/target" />
+    </content>
+  </component>
+</module>
